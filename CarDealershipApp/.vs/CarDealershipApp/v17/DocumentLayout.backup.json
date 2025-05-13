@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erika\\OneDrive\\Documentos\\GIT Course\\CarDealershipApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{730D39C0-B68A-42D6-A0CA-50A4450617A0}|CarDealership\\CarDealership.csproj|c:\\users\\erika\\onedrive\\documentos\\git course\\cardealershipapp\\cardealership\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730D39C0-B68A-42D6-A0CA-50A4450617A0}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730D39C0-B68A-42D6-A0CA-50A4450617A0}|CarDealership\\CarDealership.csproj|c:\\users\\erika\\onedrive\\documentos\\git course\\cardealershipapp\\cardealership\\application\\dealership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730D39C0-B68A-42D6-A0CA-50A4450617A0}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\application\\dealership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730D39C0-B68A-42D6-A0CA-50A4450617A0}|CarDealership\\CarDealership.csproj|c:\\users\\erika\\onedrive\\documentos\\git course\\cardealershipapp\\cardealership\\domain\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730D39C0-B68A-42D6-A0CA-50A4450617A0}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\domain\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730D39C0-B68A-42D6-A0CA-50A4450617A0}|CarDealership\\CarDealership.csproj|c:\\users\\erika\\onedrive\\documentos\\git course\\cardealershipapp\\cardealership\\domain\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730D39C0-B68A-42D6-A0CA-50A4450617A0}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\domain\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730D39C0-B68A-42D6-A0CA-50A4450617A0}|CarDealership\\CarDealership.csproj|c:\\users\\erika\\onedrive\\documentos\\git course\\cardealershipapp\\cardealership\\domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730D39C0-B68A-42D6-A0CA-50A4450617A0}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Erika\\OneDrive\\Documentos\\GIT Course\\CarDealershipApp\\CarDealership\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\Erika\\OneDrive\\Documentos\\GIT Course\\CarDealershipApp\\CarDealership\\Presentation\\Program.cs",
+              "RelativeToolTip": "CarDealership\\Presentation\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwFgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:00:53.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dealership.cs",
+              "DocumentMoniker": "C:\\Users\\Erika\\OneDrive\\Documentos\\GIT Course\\CarDealershipApp\\CarDealership\\Application\\Dealership.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Application\\Dealership.cs",
+              "ToolTip": "C:\\Users\\Erika\\OneDrive\\Documentos\\GIT Course\\CarDealershipApp\\CarDealership\\Application\\Dealership.cs",
+              "RelativeToolTip": "CarDealership\\Application\\Dealership.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAMwHgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T06:42:08.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\Erika\\OneDrive\\Documentos\\GIT Course\\CarDealershipApp\\CarDealership\\Domain\\Sale.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Domain\\Sale.cs",
+              "ToolTip": "C:\\Users\\Erika\\OneDrive\\Documentos\\GIT Course\\CarDealershipApp\\CarDealership\\Domain\\Sale.cs",
+              "RelativeToolTip": "CarDealership\\Domain\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T06:26:18.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Erika\\OneDrive\\Documentos\\GIT Course\\CarDealershipApp\\CarDealership\\Domain\\Customer.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Domain\\Customer.cs",
+              "ToolTip": "C:\\Users\\Erika\\OneDrive\\Documentos\\GIT Course\\CarDealershipApp\\CarDealership\\Domain\\Customer.cs",
+              "RelativeToolTip": "CarDealership\\Domain\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T06:16:00.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Erika\\OneDrive\\Documentos\\GIT Course\\CarDealershipApp\\CarDealership\\Domain\\Car.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Domain\\Car.cs",
+              "ToolTip": "C:\\Users\\Erika\\OneDrive\\Documentos\\GIT Course\\CarDealershipApp\\CarDealership\\Domain\\Car.cs",
+              "RelativeToolTip": "CarDealership\\Domain\\Car.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwBcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T06:09:58.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

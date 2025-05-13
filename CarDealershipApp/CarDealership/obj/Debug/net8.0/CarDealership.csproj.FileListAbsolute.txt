@@ -1,0 +1,14 @@
+C:\Users\Erika\OneDrive\Documentos\GIT Course\CarDealershipApp\CarDealership\obj\Debug\net8.0\CarDealership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika\OneDrive\Documentos\GIT Course\CarDealershipApp\CarDealership\obj\Debug\net8.0\CarDealership.AssemblyInfoInputs.cache
+C:\Users\Erika\OneDrive\Documentos\GIT Course\CarDealershipApp\CarDealership\obj\Debug\net8.0\CarDealership.AssemblyInfo.cs
+C:\Users\Erika\OneDrive\Documentos\GIT Course\CarDealershipApp\CarDealership\obj\Debug\net8.0\CarDealership.csproj.CoreCompileInputs.cache
+C:\Users\Erika\OneDrive\Documentos\GIT Course\CarDealershipApp\CarDealership\bin\Debug\net8.0\CarDealership.exe
+C:\Users\Erika\OneDrive\Documentos\GIT Course\CarDealershipApp\CarDealership\bin\Debug\net8.0\CarDealership.deps.json
+C:\Users\Erika\OneDrive\Documentos\GIT Course\CarDealershipApp\CarDealership\bin\Debug\net8.0\CarDealership.runtimeconfig.json
+C:\Users\Erika\OneDrive\Documentos\GIT Course\CarDealershipApp\CarDealership\bin\Debug\net8.0\CarDealership.dll
+C:\Users\Erika\OneDrive\Documentos\GIT Course\CarDealershipApp\CarDealership\bin\Debug\net8.0\CarDealership.pdb
+C:\Users\Erika\OneDrive\Documentos\GIT Course\CarDealershipApp\CarDealership\obj\Debug\net8.0\CarDealership.dll
+C:\Users\Erika\OneDrive\Documentos\GIT Course\CarDealershipApp\CarDealership\obj\Debug\net8.0\refint\CarDealership.dll
+C:\Users\Erika\OneDrive\Documentos\GIT Course\CarDealershipApp\CarDealership\obj\Debug\net8.0\CarDealership.pdb
+C:\Users\Erika\OneDrive\Documentos\GIT Course\CarDealershipApp\CarDealership\obj\Debug\net8.0\CarDealership.genruntimeconfig.cache
+C:\Users\Erika\OneDrive\Documentos\GIT Course\CarDealershipApp\CarDealership\obj\Debug\net8.0\ref\CarDealership.dll
